@@ -51,6 +51,7 @@
   xdg.portal.enable = true;
 
   # PACKAGES
+
   environment.systemPackages = with pkgs; [
     kitty
     fastfetch
@@ -61,6 +62,7 @@
     tty-clock
     btop
 
+# Servicios de wineport
     mesa
     vulkan-tools
     vulkan-loader
