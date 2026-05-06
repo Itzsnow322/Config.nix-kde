@@ -61,6 +61,7 @@
     uwufetch
     tty-clock
     btop
+    Gparted
 
 # Servicios de wineport
     mesa
